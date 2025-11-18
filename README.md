@@ -1,8 +1,8 @@
-# 👋 ¡Hola! Soy **Rubén**
+# ¡Hola! Soy **Rubén**
 
 ## 🧑‍💻 Administrador de Sistemas
 
-Soy un administrador de sistemas apasionado por la automatización, la estabilidad y el rendimiento. Me encanta trabajar con entornos Linux, optimizar infraestructuras y buscar siempre soluciones elegantes a problemas complejos. Además, disfruto programando y creando herramientas útiles con diferentes lenguajes.
+Soy un administrador de sistemas. Prefiero trabajar con entornos Linux, optimizar infraestructuras y buscar siempre soluciones elegantes a problemas complejos. Además, disfruto programando y creando herramientas útiles con diferentes lenguajes.
 
 ### 🎓 Formación académica  
 He completado el **Grado en Administración de Sistemas Informáticos en Red**, lo que me ha proporcionado una base sólida tanto en gestión de redes como en administración de sistemas.
@@ -11,7 +11,7 @@ He completado el **Grado en Administración de Sistemas Informáticos en Red**, 
 - 🖥️ Administro sistemas basados en Linux y Windows  
 - 🔧 Experiencia en scripting (Bash, PowerShell)  
 - 💻 Conocimientos en **JavaScript**, **PHP**, **HTML** y otros lenguajes de programación  
-- ☁️ Conocimientos en entornos cloud y virtualización  
+- ☁️ Conocimientos en virtualización  
 - 🛠️ Automatización con herramientas modernas  
 - 📚 Siempre aprendiendo nuevas tecnologías  
 
@@ -22,8 +22,7 @@ He completado el **Grado en Administración de Sistemas Informáticos en Red**, 
 - **Redes:** DNS, DHCP, Firewall, VPN  
 
 ### 📈 Objetivo  
-Seguir creciendo como profesional en la administración de sistemas, explorando nuevas herramientas y aportando soluciones estables, seguras y eficientes a los equipos con los que trabajo.
-
+Seguir creciendo como profesional en la administración de sistemas, explorando nuevas herramientas y aportando soluciones estables, seguras y eficientes.
 ---
 
-⭐ *Si te gustan mis proyectos, no dudes en dejar una estrella o contactarme para colaborar o aprender juntos.*
+⭐ *Si te gustan mis proyectos, no dudes en dejar una estrella o contactarme.*
