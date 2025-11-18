@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy **Rubensg24**
+# 👋 ¡Hola! Soy **Rubén**
 
 ## 🧑‍💻 Administrador de Sistemas
 
